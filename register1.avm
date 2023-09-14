@@ -1,0 +1,11 @@
+push int32(111)
+push int32(107)
+dump
+store int8(1)
+store int8(2)
+dump
+load int8(1)
+load int8(2)
+dump
+exit
+;; 107 111 111 107

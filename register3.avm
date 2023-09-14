@@ -1,0 +1,6 @@
+push int32(111)
+dump
+store int8(1)
+dump
+exit
+;111

@@ -1,0 +1,8 @@
+; ---------------
+; - example.avm -
+; ---------------
+push float(50)
+push double(2000)
+div ; commentaire
+dump
+exit

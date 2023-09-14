@@ -1,0 +1,8 @@
+; ---------------
+; - example.avm -
+; ---------------
+czaczac
+push fzefze(3)
+mul
+dump
+exit
