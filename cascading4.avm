@@ -1,6 +1,0 @@
-push int16(32700)
-push float(0.00001)
-mul
-dump
-exit
-;0.327
