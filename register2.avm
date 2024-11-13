@@ -1,7 +1,0 @@
-push int32(234)
-dump
-store int8(8)
-dump
-load int8(8)
-dump
-exit
