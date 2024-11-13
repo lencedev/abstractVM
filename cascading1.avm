@@ -1,6 +1,0 @@
-push int16(32600)
-push int32(183)
-add
-dump
-exit
-;32783
